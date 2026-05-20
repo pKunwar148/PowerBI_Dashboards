@@ -1,7 +1,7 @@
 # Data Jobs Dashboard 2.0 | Power BI Project
 
 
-![Data Jobs Dashboard Overview](/images/Project2Vedio.mp4)
+![Data Jobs Dashboard Overview](/images/Project2Vedio.gif)
 ## 📊 Project Overview
 
 This Power BI project analyzes the data job market using a real-world dataset of data-related job postings. The dashboard was created as part of my hands-on learning from the **Power BI for Data Analytics - Full Course for Beginners** by **Luke Barousse**.
@@ -197,7 +197,7 @@ This page helped me better understand how skill requirements can influence compe
 
 ## 5. Interactive Category and Measure Analysis
 
-![Interactive Analysis](/images/Project2_interactive_parameters.mp4)
+![Interactive Analysis](/images/Project2_interactive_parameters.gif)
 
 This page adds more interactivity by allowing users to switch between different categories and measures.
 
@@ -223,7 +223,7 @@ This interactive page makes the dashboard more flexible because users can explor
 
 ## 6. Estimated Take-Home Pay Analysis
 
-![Take Home Pay Analysis](/images/Project2_SalaryDeduction.mp4)
+![Take Home Pay Analysis](/images/Project2_SalaryDeduction.gif)
 
 This page estimates how much salary may remain after applying a user-defined deduction rate.
 
@@ -290,7 +290,7 @@ This project helped me understand how Power BI can be used not just for visualiz
 
 ## 🙏 Credits
 
-This project was created while following the **Power BI for Data Analytics - Full Course for Beginners** by **Luke Barousse** on YouTube.
+This project was created while following the **Power BI for Data Analytics** by **Luke Barousse**.
 
 The course was used as a learning reference. I also added my own analysis pages and insights to expand the project and strengthen my understanding of Power BI, dashboard design, and data analytics.
 
