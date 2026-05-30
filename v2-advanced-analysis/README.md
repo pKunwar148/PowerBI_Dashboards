@@ -1,5 +1,6 @@
-# Data Jobs Dashboard 2.0 | Power BI Project
+# Data Jobs Market Analysis Dashboard | Power BI Project
 
+This is the advanced version of the dashboard, expanded from the initial market overview version with additional analysis pages, deeper salary insights, company-level analysis, skill demand analysis, and interactive parameters.
 
 ![Data Jobs Dashboard Overview](/images/Project2Vedio.gif)
 ## 📊 Project Overview

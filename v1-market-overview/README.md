@@ -1,6 +1,5 @@
-# Data Jobs Dashboard | Power BI Project
+# Data Jobs Market Overview Dashboard | Power BI Project
 
-![Data Jobs Dashboard Overview](../images/data-jobs-v1-overview.png)
 
 ## 📊 Introduction
 
